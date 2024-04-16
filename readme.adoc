@@ -25,6 +25,11 @@ To build the document, you'll need the following tools installed on your system:
 * Docker
 * Python3
 
+If you are trying to build the document locally, the easiest way to install asciidoctor is through `gem` the package manager for Ruby.
+You may also want these optional Ruby packages:
+- coderay
+- pygments.rb
+
 === Cloning the Repository
 
 ```shell
